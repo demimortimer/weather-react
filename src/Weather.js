@@ -66,6 +66,15 @@ export default function Weather() {
           ></input>
           <button type="Submit">Search</button>
         </form>
+        <br />
+        <br />
+        <div>
+          This project was coded by{" "}
+          <a href="https://github.com/demimortimer">Demi Mortimer</a> and is on
+          <a href="https://github.com/demimortimer/weather-react">Github</a>,
+          hosted by{" "}
+          <a href="https://vermillion-dolphin-7930c1.netlify.app/">Netlify</a>.
+        </div>
       </div>
     );
 }
